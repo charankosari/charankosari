@@ -41,9 +41,9 @@ I'm always eager to learn new technologies and take on challenging projects!
 ### 📜 Certifications
 - [Certified in React + Redux by SoloLearn](https://www.sololearn.com/certificates/CT-AEOLXRX9)
 - [Certified in MySQL by HackerRank (Basic Level)](https://www.hackerrank.com/certificates/2e788deee7ba)
-- [Certified in MySQL by HackerRank](https://www.hackerrank.com/certificates/836c7fbd9206)
-- [Certified in Java by HackerRank](https://www.hackerrank.com/certificates/e0495f6b0fda)
-- [Certified in Python by HackerRank](https://www.hackerrank.com/certificates/5a16b610c304)
+- [Certified in MySQL by HackerRank  (Intermediate Level)](https://www.hackerrank.com/certificates/836c7fbd9206)
+- [Certified in Java by HackerRank (Basic Level)](https://www.hackerrank.com/certificates/e0495f6b0fda)
+- [Certified in Python by HackerRank (Basic Level)](https://www.hackerrank.com/certificates/5a16b610c304)
 
 ### 🧩 Coding Practice
 - [LeetCode Profile](https://leetcode.com/u/charan_kosari/)
