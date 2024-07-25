@@ -28,6 +28,7 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
 - AWS cloud
 - Strong grip in Linux environment (Ubuntu)
 - Can create an app using Python
+- Debugging
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/shivacharan-kosari-6073bb260/)
