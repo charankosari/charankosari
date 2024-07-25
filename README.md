@@ -1,28 +1,33 @@
-## Hi there 👋
+## 👋 Hi there, I'm Charan Kosari
 
-I'm Charan Kosari, a 4th-year student at Malla Reddy Engineering College and a passionate full-stack developer specializing in web and app development using the MERN stack and React Native.
+I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-stack developer specializing in web and app development using the MERN stack and React Native.
 
-### 🔭 I’m currently working on
-- Two React Native apps: BookMyAppointments (user and hospital)
+### 🔭 Current Projects
+- Developing two React Native apps: **BookMyAppointments** (User and Hospital)
 
-### 🌱 I’m currently learning
-- Golang, due to its multi-threading nature
+### 🌱 Learning Journey
+- Exploring **Golang** for its multi-threading capabilities.
 
 ### 💼 Work Experience
-- **Backend Developer**: BookMyAppointments, OneApp, DKDevOps, Atharva Data Science Community
-- **Frontend Developer**: Atharva, portfolio, Amrobotics user, Amrobtics Admin, Triveda, BookMyAppointments user and hospital websites, OneApp services and users websites, DKDevOps admin website, DKDevOps frontend contributor
+- **Backend Developer**:
+  - BookMyAppointments
+  - OneApp
+  - DKDevOps
+  - Atharva Data Science Community
+- **Frontend Developer**:
+  - Atharva, Portfolio, Amrobotics User and Admin, Triveda, BookMyAppointments User and Hospital Websites, OneApp Services and Users Websites, DKDevOps Admin Website, DKDevOps Frontend Contributor
 
 ### 💻 Tech Stack
 - **Frontend**: React, Next.js, React Native
 - **Backend**: Express.js
 - **Cloud**: AWS (EC2, S3)
-- **Languages**: JavaScript (MERN), Python, Java, C 
+- **Languages**: JavaScript (MERN), Python, Java, C
 
 ### 📈 Skills
 - Full-stack web and app development
-- AWS cloud 
+- AWS cloud
 - Strong grip in Linux environment (Ubuntu)
-- Can create an app using python 
+- Can create an app using Python
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/shivacharan-kosari-6073bb260/)
@@ -30,3 +35,15 @@ I'm Charan Kosari, a 4th-year student at Malla Reddy Engineering College and a p
 
 ### ⚡ Fun fact
 I'm always eager to learn new technologies and take on challenging projects!
+
+---
+
+### 📜 Certifications
+- [Certified in React + Redux by SoloLearn](https://www.sololearn.com/certificates/CT-AEOLXRX9)
+- [Certified in MySQL by HackerRank (Basic Level)](https://www.hackerrank.com/certificates/2e788deee7ba)
+- [Certified in MySQL by HackerRank](https://www.hackerrank.com/certificates/836c7fbd9206)
+- [Certified in Java by HackerRank](https://www.hackerrank.com/certificates/e0495f6b0fda)
+- [Certified in Python by HackerRank](https://www.hackerrank.com/certificates/5a16b610c304)
+
+### 🧩 Coding Practice
+- [LeetCode Profile](https://leetcode.com/u/charan_kosari/)
