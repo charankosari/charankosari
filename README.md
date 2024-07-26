@@ -16,6 +16,8 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
   - Atharva Data Science Community
 - **Frontend Developer**:
   - Atharva, Portfolio, Amrobotics User and Admin, Triveda, BookMyAppointments User and Hospital Websites, OneApp Services and Users Websites, DKDevOps Admin Website, DKDevOps Frontend Contributor
+- **Voice-Based Assistance Developer**:
+  - Developed a Python-based voice assistant for a technical event in college
 
 ### 💻 Tech Stack
 - **Frontend**: React, Next.js, React Native
