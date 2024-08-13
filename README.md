@@ -28,7 +28,7 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
 ### 💻 Tech Stack
 - **Frontend**: React, Next.js, React Native
 - **Backend**: Express.js
-- **Cloud**: AWS (EC2, S3)
+- **Cloud**: AWS (EC2, S3),Google cloud(Places nearby api,Google maps sdk)
 - **Languages**: JavaScript (MERN), Python, Java, C,Golang(learning)
 
 ### 📈 Skills
