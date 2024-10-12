@@ -22,6 +22,9 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
   - OneApp Services and Users Websites
   - DKDevOps Admin Website
   - DKDevOps Frontend Contributor
+- **Application Developer**:
+  - Bookmyappointments user and doctor
+  - Gymee
 - **Python Developer**:
   - Developed a Python-based voice assistant for a technical event in college
 
