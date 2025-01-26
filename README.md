@@ -25,6 +25,7 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
 - **Application Developer**:
   - Bookmyappointments user and doctor
   - Gymee
+  - Jeevic (Ongoing)
 - **Python Developer**:
   - Developed a Python-based voice assistant for a technical event in college
 
