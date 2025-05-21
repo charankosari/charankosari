@@ -11,10 +11,11 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
 ### 💼 Work Experience
 - **Backend Developer**:
   - BookMyAppointments
-  - Signbuddy (Ongoing)
+  - Signbuddy
   - OneApp
   - DKDevOps
   - Atharva Data Science Community
+  - Jeevic
 - **Frontend Developer**:
   - Atharva, Portfolio
   - Amrobotics User and Admin
