@@ -16,6 +16,7 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
   - DKDevOps
   - Atharva Data Science Community
   - Jeevic
+  - Festgo
 - **Frontend Developer**:
   - Atharva, Portfolio
   - Amrobotics User and Admin
