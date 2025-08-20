@@ -17,6 +17,7 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
   - Atharva Data Science Community
   - Jeevic
   - Festgo
+  - Bioreturns
 - **Frontend Developer**:
   - Atharva, Portfolio
   - Amrobotics User and Admin
@@ -25,9 +26,9 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
   - OneApp Services and Users Websites
   - DKDevOps Admin Website
   - DKDevOps Frontend Contributor
+  - Bioreturns
 - **Application Developer**:
   - Bookmyappointments user and doctor
-  - Jeevic (Ongoing)
   - Gymee
 
 - **Python Developer**:
@@ -37,13 +38,13 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
 - **Frontend**: React, Next.js, React Native
 - **Backend**: Express.js
 - **Cloud**: AWS (EC2, S3),Google cloud(Places nearby api,Google maps sdk)
-- **Languages**: JavaScript (MERN), Python, Java, C,Golang(learning)
+- **Languages**: JavaScript (MERN), Python, Java, C,Rust
 
 ### 📈 Skills
 - Full-stack web and app development
 - AWS cloud
 - Strong grip in Linux environment (Ubuntu)
-- Can create an app using Python
+- Python programming
 - Debugging
 
 ### 📫 How to reach me
