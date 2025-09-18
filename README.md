@@ -3,13 +3,13 @@
 I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-stack developer specializing in web and app development using the MERN stack and React Native and i have proficient coding knowledge in Python.
 
 ### 🔭 Current Projects
-- Developing two React Native apps: **BookMyAppointments** (User and Hospital)
+- Developing backend for **Festgo**,Developing backend and app for **Bahumathi**
 
 ### 🌱 Learning Journey
 - Exploring **Golang** for its multi-threading capabilities.
 
 ### 💼 Work Experience
-- **Backend Developer**:
+- **Backend Developer**: 
   - BookMyAppointments
   - Signbuddy
   - OneApp
@@ -18,6 +18,7 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
   - Jeevic
   - Festgo
   - Bioreturns
+  - Bahumathi
 - **Frontend Developer**:
   - Atharva, Portfolio
   - Amrobotics User and Admin
@@ -30,6 +31,7 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
 - **Application Developer**:
   - Bookmyappointments user and doctor
   - Gymee
+  - Bahumathi
 
 - **Python Developer**:
   - Developed a Python-based voice assistant for a technical event in college
@@ -39,6 +41,7 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
 - **Backend**: Express.js
 - **Cloud**: AWS (EC2, S3),Google cloud(Places nearby api,Google maps sdk)
 - **Languages**: JavaScript (MERN), Python, Java, C,Rust
+- **AI/ML**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
 
 ### 📈 Skills
 - Full-stack web and app development
