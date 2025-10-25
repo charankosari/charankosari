@@ -28,10 +28,9 @@ I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-
   - DKDevOps Frontend Contributor
   - Bioreturns
   - sia landing page 
-  - 
+  - Capable groups
 - **Application Developer**:
   - Bookmyappointments user and doctor
-  - Gymee
   - Bahumathi
 
 - **Python Developer**:
