@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Charan Kosari
 
-I'm a 4th-year student at Malla Reddy Engineering College and a passionate full-stack developer specializing in web and app development using the MERN stack and React Native and i have proficient coding knowledge in Python.
+I am a passionate full-stack developer specializing in web and app development using the MERN stack and React Native, with proficient coding skills in Python and strong experience in AI
 
 ### 🔭 Current Projects
 - Developing backend for **Festgo**,Developing backend and app for **Bahumathi**
