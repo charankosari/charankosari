@@ -5,9 +5,6 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
 ### 🔭 Current Projects
 - Developing backend for **Festgo**,Developing backend and app for **Bahumathi**
 
-### 🌱 Learning Journey
-- Exploring **Golang** for its multi-threading capabilities.
-
 ### 💼 Work Experience
 - **Backend Developer**: 
   - BookMyAppointments
