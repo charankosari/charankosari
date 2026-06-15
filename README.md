@@ -16,6 +16,8 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
   - Festgo
   - Bioreturns
   - Bahumathi
+  - NyraAi
+  - HusleLifestyle
 - **Frontend Developer**:
   - Atharva, Portfolio
   - Triveda
@@ -26,6 +28,10 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
   - Bioreturns
   - sia landing page 
   - Capable groups
+  - NyraAi
+  - HusleLifestyle
+- **AI Engineer**:
+  - NyraAI
 - **Application Developer**:
   - Bookmyappointments user and doctor
   - Bahumathi
