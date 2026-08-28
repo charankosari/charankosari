@@ -3,7 +3,7 @@
 I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable web and mobile applications using the MERN stack and React Native. My AI expertise includes working with LLMs, Retrieval-Augmented Generation (RAG), NLP, and machine learning using Python, along with integrating AI models through APIs and custom pipelines. I specialize in building AI agents, automation systems, and production-ready intelligent applications that solve real-world problems.
 
 ### 🔭 Current Projects
-- Developing backend for **Festgo**,Developing backend and app for **Bahumathi**,Developing Backend and Frontend for Huslelifestyle 
+- Developing backend for **Festgo**,Developing backend and app for **Bahumathi**
 
 ### 💼 Work Experience
 - **Backend Developer**: 
@@ -17,7 +17,6 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
   - Bioreturns
   - Bahumathi
   - NyraAi
-  - HusleLifestyle
 - **Frontend Developer**:
   - Atharva, Portfolio
   - Triveda
@@ -29,7 +28,6 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
   - sia landing page 
   - Capable groups
   - NyraAi
-  - HusleLifestyle
 - **AI Engineer**:
   - NyraAI
 - **Application Developer**:
@@ -49,6 +47,7 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
 ### 📈 Skills
 - Full-stack web and app development
 - AWS cloud
+- GCP cloud
 - Strong grip in Linux environment (Ubuntu)
 - Python programming
 - Debugging
