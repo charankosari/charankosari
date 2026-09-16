@@ -3,7 +3,7 @@
 I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable web and mobile applications using the MERN stack and React Native. My AI expertise includes working with LLMs, Retrieval-Augmented Generation (RAG), NLP, and machine learning using Python, along with integrating AI models through APIs and custom pipelines. I specialize in building AI agents, automation systems, and production-ready intelligent applications that solve real-world problems.
 
 ### 🔭 Current Projects
-- Developing backend for **Festgo**,Developing backend and app for **Bahumathi**
+- Building HeyRik AI calling agent 
 
 ### 💼 Work Experience
 - **Backend Developer**: 
