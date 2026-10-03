@@ -24,8 +24,6 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
   - Triveda
   - BookMyAppointments User and Hospital Websites
   - OneApp Services and Users Websites
-  - DKDevOps Admin Website
-  - DKDevOps Frontend Contributor
   - Bioreturns
   - sia landing page 
   - Capable groups
@@ -35,7 +33,6 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
   - NyraAI
   - HeyRik
 - **Application Developer**:
-  - Bookmyappointments user and doctor
   - Bahumathi
 
 - **Python Developer**:
