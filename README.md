@@ -17,7 +17,6 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
   - Bioreturns
   - Bahumathi
   - NyraAi
-  - HeyRik
   - WeJstMet
 - **Frontend Developer**:
   - Atharva, Portfolio
@@ -28,10 +27,9 @@ I’m an AI Engineer and Full Stack Developer who builds intelligent, scalable w
   - sia landing page 
   - Capable groups
   - NyraAi
-  - HeyRik
 - **AI Engineer**:
   - NyraAI
-  - HeyRik
+
 - **Application Developer**:
   - Bahumathi
 
